@@ -5,9 +5,13 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+I personally recommend using Homebrew to install several of these dependencies. Brew is available on Linux, Mac, and is available in the Ubuntu Virtual Machine on Windows. 
+
+https://brew.sh
+
 ### Prerequisites
 
-#### Requirements to run Headlinerr's API
+#### Requirements to run this API
 1. Install NodeJS
   - [Node](https://nodejs.org/en/download/) - Web Download
   - Homebrew: ```brew install node```
